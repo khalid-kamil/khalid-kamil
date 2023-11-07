@@ -8,7 +8,7 @@
 
 - 👨‍💻 My projects are available at [https://khalid-kamil.notion.site](https://khalid-kamil.notion.site)
 
-- 💬 Ask me about **SwiftUI, App Store Featuring**
+- 💬 Ask me about **SwiftUI, watchOS Development and App Store Featuring**
 
 - 📫 How to reach me **khalidkamil@icloud.com**
 
