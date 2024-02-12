@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [the Pillars App](www.thepillarsapp.com)
 
-- 🌱 I’m currently learning **RxSwift, Networking, Persistence, SOLID Principles, Design Patterns**
+- 🌱 I’m currently learning **Combine, Networking, Persistence, SOLID Principles, Design Patterns, TDD**
 
 - 👨‍💻 My projects are available at [https://khalid-kamil.notion.site](https://khalid-kamil.notion.site)
 
